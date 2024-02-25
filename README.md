@@ -9,9 +9,6 @@ This project involves developing a Pacman agent to efficiently navigate and solv
 - Application of these algorithms in various Pacman scenarios.
 - Autograder included for self-assessment.
 
-## Installation
-To run this project, you'll need Python installed on your machine. Download the project code, then extract the zip archive.
-
 ### Dependencies
 - Python (version 3.x recommended)
 - Pygame (for graphics display, optional)
